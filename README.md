@@ -1,7 +1,7 @@
 ### Hi, I'm Karoline 👋
 
 ### About me
-I'm a internet, I'm learning about .NET, Java and QA 
+I'm a intern, I'm learning about .NET, Java and QA 
 
 - 🔭 I’m currently working on final college job, is an app in React, NodeJs, JavaScript and MongoDB
 - 🌱 I’m currently learning about React, JavaScrit, Java, .NET
