@@ -1,11 +1,11 @@
 ### Hi, I'm Karoline 👋
 
 ## About me
-I'm a intern, I'm learning about .NET and JavaScript 
+I'm a Testing Analyst and a student of analyses and system development, I'm learning about .NET and JavaScript 
 
 - 🔭 I’m currently working on final college job, is an app in React, NodeJs, JavaScript and MongoDB
 - 🌱 I’m currently learning about React, JavaScrit, Java, .NET
-- 💻  Tecnologies: .NET, JavaScript, Java, React, MySql, SqlServer and MongoDB
+- 💻  Tecnologies: .NET, JavaScript, Java, ReactJs, MySql and MongoDB
 - ⚡ Fun fact: I love to watch tv shows, anime, cooking shows and I love cooking 📺🍕
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/karolinelopes)
