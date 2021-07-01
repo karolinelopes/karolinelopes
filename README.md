@@ -1,7 +1,7 @@
 ### Hi, I'm Karoline 👋
 
 ## About me
-I'm a Testing Analyst and a student of analyses and system development, I'm learning about .NET and JavaScript 
+I'm a Testing Analyst and graduated in Analyses and system development, I'm learning about .NET and JavaScript 
 
 - 🔭 I’m currently working on final college job, is an app in React, NodeJs, JavaScript and MongoDB
 - 🌱 I’m currently learning about React, JavaScrit, Java, .NET
